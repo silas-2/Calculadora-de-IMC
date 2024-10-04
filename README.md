@@ -77,3 +77,5 @@ elif 25 <= imc < 29.9:
     print("Classificação: Sobrepeso")
 else:
     print("Classificação: Obesidade")
+
+
